@@ -1,5 +1,5 @@
 total 12
--rwxrwxr-x. 1 gfer gfer 147 Sep 30 16:40 bash_script.sh
+-rwxrwxr-x. 1 gfer gfer 147 Sep 30 16:43 bash_script.sh
 -rw-rw-r--. 1 gfer gfer  17 Sep 30 13:24 GFER_9880812-CEN036
--rw-rw-r--. 1 gfer gfer   0 Sep 30 16:40 lista_HOME.txt
+-rw-rw-r--. 1 gfer gfer   0 Sep 30 16:43 lista_HOME.txt
 -rw-rw-r--. 1 gfer gfer  21 Sep 30 13:20 README.md
